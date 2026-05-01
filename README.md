@@ -9,22 +9,19 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
 ## Scripts
-
-To learn more about Next.js, take a look at the following resources:
 
 - `npm run dev` - start the dev server
 - `npm run build` - build for production
 - `npm run start` - run the production server
 - `npm run lint` - run linting
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Learn More
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Next.js GitHub repository](https://github.com/vercel/next.js)
 
 ## Tech Stack
 
